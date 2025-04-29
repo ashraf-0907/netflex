@@ -1,0 +1,11 @@
+/home/ashraf/netflex/build/CMakeFiles/netflex_lib.dir
+/home/ashraf/netflex/build/CMakeFiles/tcp_server_test.dir
+/home/ashraf/netflex/build/CMakeFiles/tcp_client_test.dir
+/home/ashraf/netflex/build/CMakeFiles/udp_client_test.dir
+/home/ashraf/netflex/build/CMakeFiles/udp_server_test.dir
+/home/ashraf/netflex/build/CMakeFiles/ssl_server_test.dir
+/home/ashraf/netflex/build/CMakeFiles/ssl_client_test.dir
+/home/ashraf/netflex/build/CMakeFiles/threaded_tcp_test.dir
+/home/ashraf/netflex/build/CMakeFiles/threaded_ssl_test.dir
+/home/ashraf/netflex/build/CMakeFiles/edit_cache.dir
+/home/ashraf/netflex/build/CMakeFiles/rebuild_cache.dir
