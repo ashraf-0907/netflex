@@ -1,1 +1,39 @@
-build
+# Build folders
+/build/
+/bin/
+/lib/
+/out/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compiled object files and binaries
+*.o
+*.obj
+*.lo
+*.a
+*.so
+*.dll
+*.exe
+*.out
+
+# Editor/IDE files
+*.swp
+*~
+*.user
+*.suo
+*.vcxproj.*
+.idea/
+.vscode/
+
+# Logs and debugging files
+*.log
+*.dSYM/
+core
+*.stackdump
+
+# Test outputs
+test_output/
